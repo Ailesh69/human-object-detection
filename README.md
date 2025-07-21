@@ -90,7 +90,7 @@ To get this project running on your local machine, follow these **simple steps**
   ![Face detection with minNeighbors](assets/grp.jpg)
 
 * **Combined Face (Green) and Eye (Blue) Detection:**
-  ![Face and eye detection](assets/eye.jpg)
+  ![Face and eye detection](assets/eyes.jpg)
 
 * **Full Body Detection:**
   ![Full body detection](assets/fullbdy.jpg)
