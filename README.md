@@ -86,7 +86,7 @@ To get this project running on your local machine, follow these **simple steps**
 * **Face Detection with Scale Factor 1.2:**
   ![Face detection with scale factor 1.2](assets/green.jpg)
 
-* **Face Detection with `minNeighbors`:**
+* **Multiple Face Detection with minNeighbors:**
   ![Face detection with minNeighbors](assets/grp.jpg)
 
 * **Combined Face (Green) and Eye (Blue) Detection:**
